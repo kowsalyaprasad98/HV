@@ -1,0 +1,1 @@
+select emp_name,job_name,salary from EmployeeDetails;

@@ -1,0 +1,10 @@
+insert into EmployeeDetails values(101,"Ace","President",5001,"2019-12-13",2000000,531),
+(102,"Ancy","Software Developer",5005,"2019-12-22",600000,532),
+(103,"Bash","Analyst",5002,"2019-12-24",800000,533),
+(104,"Vincy","Business Analyst",5003,"2019-12-23",900000,534),
+(105,"Drake","Attendant",5004,"2019-12-12",20000,535),
+(106,"Emily","Software Developer",5005,"2019-12-04",600000,532),
+(107,"Santhoshi","Analyst",5006,"2019-12-03",800000,533),
+(108,"Preethi","Business Analyst",5007,"2019-12-01",900000,534),
+(109,"Nick","Attendant",5008,"2019-12-12",20000,535),
+(110,"Invis","Vice President",5001,"2019-12-10",1500000,530);

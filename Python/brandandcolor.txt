@@ -1,0 +1,6 @@
+Car Brands and Colors
+VW:Black
+BMW:DarkStoneGrey
+Ford:Black
+Suzuki:White
+Skoda:Red
